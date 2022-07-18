@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = kmstheodore@gmail.com
+	name = Theodore Simpson
